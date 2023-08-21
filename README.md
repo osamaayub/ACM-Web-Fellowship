@@ -1,10 +1,10 @@
 # ACM-Web-Fellowship
 Web development fellowship tasks.
 
-<br>
+<hr>
 1)  git clone  https://github.com/osamaayub/ACM-Web-Fellowship
-<br>
+<hr>
 2)  add index.html file and make a structure for testimonials project
-<br>
+<hr>
 3)  add style.css in the project and link to html file.
 
